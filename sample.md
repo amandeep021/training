@@ -6,6 +6,6 @@
 
 ### second commit from local repo
 
-###second commit from github origin
-
 ### third commit from github origin
+
+### third commit from local repo
